@@ -6,4 +6,13 @@ The miner can validate transactions, mine for the appropriate cryptocurrency (Ac
 
 To run this miner, run the program and then type the following command in the terminal: 
 
-#(go INITIAL-VALIDATOR-STATE)#
+**(go INITIAL-VALIDATOR-STATE)**
+
+Upon running this command, the ledger will start printing every transaction in the history of the server (which will take a really long time to finish), but your miner will have activated, meaning that you will likely be making money as you wait.
+
+Below, is the sample output of starting the miner:
+
+
+<img width="1203" alt="Screenshot 2023-06-08 at 7 44 01 PM" src="https://github.com/phegde494/BlockchainMining/assets/48624928/cf234b7f-6732-4151-8491-1272811e18a4">
+
+**Have fun mining!**
