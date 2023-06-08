@@ -6,4 +6,4 @@ The miner can validate transactions, mine for the appropriate cryptocurrency (Ac
 
 To run this miner, run the program and then type the following command in the terminal: 
 
-##(go INITIAL-VALIDATOR-STATE)##
+#(go INITIAL-VALIDATOR-STATE)#
